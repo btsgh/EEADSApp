@@ -25,7 +25,7 @@
       "pluginId": "oracle-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "Query3",
     "pageId": "Page1",
     "userSetOnLoad": false

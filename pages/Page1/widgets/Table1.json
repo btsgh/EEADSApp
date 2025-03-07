@@ -166,7 +166,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 34,
   "searchKey": "",
-  "tableData": "{{Query1.data}}",
+  "tableData": "{{Query3.data.data}}",
   "textSize": "0.875rem",
   "topRow": 1,
   "totalRecordsCount": 0,
